@@ -19,3 +19,4 @@ Main goals for this design are:
 - Small profile and rounded edges for low resistance to air flow from hot end fan.
 - Keeps its distance from the hot end to avoid overheating.
 
+![Sensor Holder](images/Image4.jpg)
